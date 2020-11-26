@@ -1,0 +1,58 @@
+{
+    "model_type": "surface",
+    "model_name": "s02_2",
+    "learning_rate": 0.0005,
+    "batch_size": 1,
+    "num_epochs": 300,
+    "latent_dim": 30,
+    "latent_seq": 20,
+    "seq_len": 101,
+    "nf": [
+        1,
+        16,
+        32,
+        64,
+        128,
+        256,
+        1024
+    ],
+    "ns": [
+        101,
+        80,
+        60,
+        40,
+        20
+    ],
+    "makegraph": 0,
+    "heart_torso": 1,
+    "anneal": 0,
+    "device": 0,
+    "sample": 1,
+    "subset": 1,
+    "graph_name": [
+        "EC_graclus_hier"
+    ],
+    "heart_name": [
+        "EC"
+    ],
+    "num_meshfree": [
+        597
+    ],
+    "structures": [
+        "EC"
+    ],
+    "val_graph": [
+        "z21_100_graclus_hier"
+    ],
+    "val_heart": [
+        "z21_100"
+    ],
+    "val_meshfree": [
+        597
+    ],
+    "val_structures": [
+        "EC"
+    ],
+    "vae_latest": "m_best",
+}
+  
