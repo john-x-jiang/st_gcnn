@@ -3,7 +3,7 @@
 This repository provides the code and data described in the paper:
 
 **[Learning Geometry-Dependent and Physics-Based Inverse Image Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_47)**
- Xiajun Jiang, Sandesh GhimireJwala DhamalaZhiyuan LiPrashnna Kumar Gyawali,  <a href="[https://pht180.rit.edu/cblwang/](https://pht180.rit.edu/cblwang/)" target="_blank">Linwei Wang</a>
+ Xiajun Jiang, Sandesh Ghimire, Jwala Dhamala, Zhiyuan Li, Prashnna Kumar Gyawali,  <a href="[https://pht180.rit.edu/cblwang/](https://pht180.rit.edu/cblwang/)" target="_blank">Linwei Wang</a>
 
  Published on [MICCAI 2020](https://www.miccai2020.org/en/).
 
